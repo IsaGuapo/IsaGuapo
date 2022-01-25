@@ -24,7 +24,7 @@ Repositorios:
  👯:
   * Api de búsqueda de empleo para desarrolladores: https://github.com/IsaGuapo/app_search_job
   * Proyecto de Quiz sobre Halloween : https://github.com/IsaGuapo/Quiz_Halloween
-  * Proyecto sobre formación en ciberseguridad: 
+  * Proyecto sobre formación en ciberseguridad: https://github.com/IsaGuapo/ocult_ciberseguridad
  😄 :
   * App Shop: Demo de app store online : https://github.com/IsaGuapo/App_Shop_Front
   * Api de Noticias: https://github.com/IsaGuapo/myApp_news
