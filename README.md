@@ -30,8 +30,8 @@ Repositorios:
   * Api de Noticias: https://github.com/IsaGuapo/myApp_news
   * Weather App: https://github.com/IsaGuapo/weather_app
   * Mapa de geolocalización: https://github.com/IsaGuapo/mapas_geolocalizacion
-  * To do List: https://github.com/IsaGuapo/ToDoList/blob/main/README.md
-  * POKEPAI: https://github.com/IsaGuapo/pokeApi_react/edit/main/README.md
+  * To do List: https://github.com/IsaGuapo/ToDoList
+  * POKEPAI: https://github.com/IsaGuapo/pokeApi_react
   
   
 
