@@ -22,7 +22,7 @@ Aquí encontrarás:
 
 Repositorios:
  👯:
-  * Formulario con autenficación por parte de AuthO : https://github.com/IsaGuapo/OAuth.git
+  * Formulario con autenficación por parte de AuthO 
   * Api de búsqueda de empleo para desarrolladores: https://github.com/IsaGuapo/app_search_job
   * Proyecto de Quiz sobre Halloween : https://github.com/IsaGuapo/Quiz_Halloween
   * Proyecto sobre formación en ciberseguridad: https://github.com/IsaGuapo/ocult_ciberseguridad
